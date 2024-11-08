@@ -1,4 +1,15 @@
-# Warehouse-Revenue-Dashboard
-Developed a comprehensive dashboard to analyze and visualize warehouse performance metrics, including total revenue, order volume, and average order value.
- Utilized tools like Excel and Power BI to create interactive graphs and tables, facilitating data-driven decision-making. Enhanced visibility into revenue trends, inventory levels, and customer contributions, resulting in improved operational efficiency.
- Focused on user-friendly design and real-time data integration, enabling stakeholders to identify key insights and drive revenue growth effectively
+# Warehouse Revenue Dashboard
+This repository contains a Warehouse Revenue Dashboard built using Power BI to visualize and analyze warehouse revenue data. The dashboard provides an interactive view of key performance indicators (KPIs) such as total revenue, Handling Revenue, product categories, and regional performance.
+
+*Features
+--Revenue Overview: Displays total revenue, revenue trends over time, and top-performing products.
+--Regional Analysis: Breaks down revenue by region and warehouse location.
+--Product Insights: Visualizes revenue by product category, helping identify top-selling items.
+--Dynamic Filters: Allows users to filter data by date range, product, region, and warehouse.
+--Interactive Visuals: Includes bar charts, line graphs, and pie charts for easy data exploration.
+
+*Technologies Used
+--Power BI for dashboard creation and data modeling.
+--DAX for calculations and aggregations.
+--Power Query for data transformation.
+--Excel as the data source.
